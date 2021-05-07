@@ -17,7 +17,20 @@ ul
     color: mediumblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-button
+a:link
 {
-    cursor: pointer;
+    color: rgb(4, 32, 189);
+    transition: all .4s;
+}
+ a:visited
+{
+    color: rgb(4, 32, 189);
+}
+a:hover
+{
+    color: rgb(208, 255, 0);
+}
+a:active
+{
+    color: orange;
 }
