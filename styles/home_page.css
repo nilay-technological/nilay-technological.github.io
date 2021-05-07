@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+*{
+    font-family: 'Arvo', serif;
+}
+
+body{
+    background-image: url("../assets/background_image.jpg");
+    background-size: cover;
+}
+
+marquee{
+    color: aqua;
+    background-color: blue;
+    border: 5px solid red;
+    font-family: cursive;
+}
+
+marquee sup{
+    color: aqua;
+    font-family: cursive;
+}
+
+nav{
+    background-color: rgba(0, 153, 255, 0.164);
+    padding: 20px;
+    border-radius: 40%;
+}
+
+header{
+    text-align: center;
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+}
+
+.post_links{
+    text-align: left;
+}

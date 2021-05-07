@@ -1,0 +1,36 @@
+.social_icons{
+    text-align: right;
+}
+
+.blogger_icon{
+    background-color: rgb(255, 174, 0);
+    transition: ease 0.5s;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.blogger_icon:hover{
+    border-radius: 50px;
+}
+
+.twitter_icon{
+    background-color: rgb(0, 217, 255);
+    transition: ease 0.5s;
+    border: 2px solid black;
+    border-radius: 15px;   
+}
+
+.twitter_icon:hover{
+    border-radius: 50px;
+}
+
+.youtube_icon{
+    background-color: red;
+    transition: ease 0.5s;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.youtube_icon:hover{   
+    border-radius: 50px;
+}

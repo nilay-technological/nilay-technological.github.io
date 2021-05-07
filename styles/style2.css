@@ -1,0 +1,16 @@
+a:link{
+    color: rgb(4, 189, 189);
+    transition: all .4s;
+}
+
+ a:visited{
+    color: rgb(4, 189, 189);
+}
+
+a:hover{
+    color: rgb(208, 255, 0);
+}
+
+a:active{
+    color: orange;
+}
