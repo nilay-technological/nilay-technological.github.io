@@ -55,3 +55,20 @@ table, td, tr{
 .back2home{
     text-align: center;
 }
+
+.note{
+    color: red;
+    font-size: 15px;
+    transition: ease 0.4s;
+}
+
+.note:hover{
+    color: black;
+}
+
+.note a:hover{
+    color: black;
+    font-size: 15px;
+    font-family: monospace;
+    transition: ease 0.4s;
+}
