@@ -1,0 +1,92 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title_bar{
+    text-align: center;
+}
+
+.title_bar textarea{
+    padding: 10px;
+    font-family: monospace;
+    font-size: 12px;
+    letter-spacing: 1px;
+    background-color: transparent;
+}
+
+.title_bar textarea::placeholder{
+    font-family: cursive;
+    font-size: 18px;
+}
+
+textarea:focus{
+    outline-color: #16a085;
+    border-color: #16a085;
+}
+
+.post_title{
+    resize: none;
+}
+
+.your_post{
+    resize: none;
+}
+
+.btn{
+    text-align: center;
+}
+
+.btn button{
+    padding: 9px 15px;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    outline: none;
+    color: #f2f2f2;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #16a085;
+    transition: ease 0.2s;
+}
+
+.btn button:hover{
+    color: #f2f2f2;
+    background-color: #01705a;
+    padding: 12px 18px;
+    font-size: 20px;
+}
+
+.btn button:active{
+    background-color: #077988;
+    border: none;
+    font-size: 25px;
+    padding: 14px 20px;
+}
+
+.back2home{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    font-family: monospace;
+}
+
+p a{
+    transition: ease 0.4s;
+}
+
+p a:hover{
+    color: black;
+    font-family: cursive;
+    font-size: 40px;
+}
