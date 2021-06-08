@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+.back2home{
+    text-align: center;
+}
+
+.credit{
+    text-align: center;
+    font-size: 18px;
+    font-family: monospace;
+}
+
+.credit a{
+    transition: ease 0.4s;
+}
+
+.credit a:hover{
+    color: black;
+    font-family: cursive;
+    font-size: 40px;
+}
