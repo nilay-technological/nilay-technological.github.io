@@ -48,3 +48,16 @@ footer{
 .latest_projects_heading{
     text-align: left;
 }
+
+body{
+    animation: fade 2s ease forwards;
+}
+
+@keyframes fade{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
