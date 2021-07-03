@@ -1,0 +1,3 @@
+alert("You are viewing the beta version of the homepage. Please read the console for more info.");
+console.log("BETA VERSION INFO GIVEN BELOW");
+console.log("This page is the beta version of the homepage. This means that any new changes or update will be done first on this page for testing purpose and then we will update the content in the homepage. Some small changes may be done directly to the homepage. Report at https://twitter.com/nilay_tech if you find any bug or other problem or suggestions.");
