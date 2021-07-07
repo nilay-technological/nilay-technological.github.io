@@ -1,14 +1,32 @@
-.main_content h2{
-    text-align: left;
-    font-size: 30px;
-}
-
-.main_content p{
-    text-align: left;
-}
-
 .main_content img{
     border: 4px solid black;
     width: 500px;
     aspect-ratio: auto 749 / 353;
+}
+
+.web_dev_h2{
+    text-align: left;
+    font-size: 30px;
+}
+
+.web_dev_p{
+    text-align: left;
+}
+
+.game_dev_h2{
+    text-align: right;
+    font-size: 30px;
+}
+
+.game_dev_p{
+    text-align: right;
+}
+
+.programming_h2{
+    text-align: left;
+    font-size: 30px;
+}
+
+.programming_p{
+    text-align: left;
 }
